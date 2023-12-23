@@ -2,67 +2,67 @@
 
 ## Find all Data Science Assignments Here
 
-### [Basic Statistics Level 1](https://github.com/MoinDalvs/Assignment-Basic-Stats-Level1)
+### [Basic Statistics Level 1](https://github.com/poojashedge12/Assignment-Basic-Stats-Level1)
 
-### [Basic Statistics Level 2 SET 1](https://github.com/MoinDalvs/Assignment_2_Set_1)
+### [Basic Statistics Level 2 SET 1](https://github.com/poojashedge12/Assignment_2_Set_1/blob/main/README.md)
 
-### [Basic Statistics Level 2 SET 2](https://github.com/MoinDalvs/Assignment_2_Set_2)
+### [Basic Statistics Level 2 SET 2](https://github.com/poojashedge12/Assignment_2_Set_2)
 
-### [Basic Statistics Level 2 SET 3](https://github.com/MoinDalvs/Assignment_2_Set_3)
+### [Basic Statistics Level 2 SET 3](https://github.com/poojashedge12/Basic-Statistics-Level-2-SET-3/blob/main/README.md)
 
-### [Basic Statistics Level 2 SET 4](https://github.com/MoinDalvs/Assignment_-2_Set_4)
+### [Basic Statistics Level 2 SET 4]()
 
-### [Hypothesis Testing](https://github.com/MoinDalvs/Assignment_Hypothesis_test)
+### [Hypothesis Testing]()
 
-### [Simple Linear Regression Delivery Time](https://github.com/MoinDalvs/Simple_Linear_Regression_1)
+### [Simple Linear Regression Delivery Time]()
 
-### [Simple Linear Regression Salary Hike](https://github.com/MoinDalvs/Simple_Linear_regression_2)
+### [Simple Linear Regression Salary Hike]()
 
-### [Multi Linear Regression 50 Startups](https://github.com/MoinDalvs/Assignment_Multi_linear_Regression_1)
+### [Multi Linear Regression 50 Startups]()
 
-### [Multi Linear Regression Toyota Corolla](https://github.com/MoinDalvs/Assignment_Multi_linear_regression_2)
+### [Multi Linear Regression Toyota Corolla]()
 
-### [Logistic Regression](https://github.com/MoinDalvs/Assignment_Logistic_Regression)
+### [Logistic Regression]
 
-### [Clustering East West Airlines](https://github.com/MoinDalvs/Assignment_East-West_Airlines)
+### [Clustering East-West Airlines]
 
-### [Clustering Crime Data](https://github.com/MoinDalvs/Assignment_Crime_data_Clustering)
+### [Clustering Crime Data]
 
-### [PCA Wine Dataset](https://github.com/MoinDalvs/Assignment_PCA_Wine_Dataset)
+### [PCA Wine Dataset]
 
-### [Association Rule](https://github.com/MoinDalvs/Assignment_Association_Rules)
+### [Association Rule]
 
-### [Recommendation System](https://github.com/MoinDalvs/Assignment_Recommendation_System_Books)
+### [Recommendation System]
 
-### [Text Mining Sentiment Analysis on Elon Musk Tweets](https://github.com/MoinDalvs/Sentiment_Analysis_on_-Elon_musk_Tweets)
+### [Text Mining Sentiment Analysis on Elon Musk Tweets]
 
-### [Text Mining Sentiment Analysis and Web Scraping of Amazon Reviews](https://github.com/MoinDalvs/Assignment_Web_Scraping_Emotion_Mining)
+### [Text Mining Sentiment Analysis and Web Scraping of Amazon Reviews]
 
-### [Naive Bayes](https://github.com/MoinDalvs/Assignment_Naive_Bayes_Salary_dataset)
+### [Naive Bayes]
 
-### [KNN Zoo dataset](https://github.com/MoinDalvs/Assignment_KNN_Zoo)
+### [KNN Zoo dataset]
 
-### [KNN Glass dataset](https://github.com/MoinDalvs/Assignment_KNN_Glass)
+### [KNN Glass dataset]
 
-### [Decision Trees Company Dataset](https://github.com/MoinDalvs/Assignment_Decision_Tree_1)
+### [Decision Trees Company Dataset]
 
-### [Decision Trees Fraud Dataset](https://github.com/MoinDalvs/Assignment_Decision_Tree_2)
+### [Decision Trees Fraud Dataset]
 
-### [Random Forests Fraud Dataset](https://github.com/MoinDalvs/Assignment_Random_Forest_1)
+### [Random Forests Fraud Dataset]
 
-### [Random Forests Company Dataset](https://github.com/MoinDalvs/Assignment_Random_Forest_2)
+### [Random Forests Company Dataset]
 
-### [Neural Networks Gas Turbines](https://github.com/MoinDalvs/Neural_Network_Regression_Gas_Turbines)
+### [Neural Networks Gas Turbines]
 
-### [Neural Networks Forest Fires](https://github.com/MoinDalvs/Neural_Networks_Forest_Fire_Classification)
+### [Neural Networks Forest Fires]
 
-### [SVM Forest Fires](https://github.com/MoinDalvs/Assignment_SVM_Forest_Fire_Prediction)
+### [SVM Forest Fires]
 
-### [SVM Salary Dataset](https://github.com/MoinDalvs/Assignment_SVM_Salary_Dataset)
+### [SVM Salary Dataset]
 
-### [Forecasting Airline Passenger Traffic](https://github.com/MoinDalvs/Forecasting_Airline_Passengers_Traffic)
+### [Forecasting Airline Passenger Traffic]
 
-### [Forecasting Coca-Cola Prices](https://github.com/MoinDalvs/Forecasting_CocaCola_prices.)
+### [Forecasting Coca-Cola Prices]
 
 ___
 
