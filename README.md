@@ -12,7 +12,7 @@
 
 ### [Basic Statistics Level 2 SET 4]()
 
-### [Hypothesis Testing]()
+### [Hypothesis Testing](https://github.com/poojashedge12/Hypothesis-Testing)
 
 ### [Simple Linear Regression Delivery Time]()
 
